@@ -1,0 +1,17 @@
+# outputs written by the scripts in their own folders
+scripts/*/*.json
+scripts/*/*.csv
+scripts/*/*.npz
+# ground-motion records (not redistributed)
+records-tomas/
+rec_*/
+# virtual environment
+.venv/
+# outputs and caches
+__pycache__/
+*.pyc
+results_*/
+figs_*/
+*.log
+.DS_Store
+.ipynb_checkpoints/

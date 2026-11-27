@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this material, please cite the associated papers."
+title: "Structure-to-structure response correlation in regional seismic risk assessment: data and code"
+authors:
+  - family-names: Mejia
+    given-names: Tomas
+    affiliation: "Scuola Universitaria Superiore IUSS Pavia"
+  - family-names: O'Reilly
+    given-names: Gerard J.
+    affiliation: "Scuola Universitaria Superiore IUSS Pavia"
+license: GPL-3.0
+repository-code: "https://github.com/t-mejia/structure-response-correlation"
+version: "1.0.0"
+date-released: 2026-11-26
